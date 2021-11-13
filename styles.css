@@ -41,7 +41,7 @@ body{
 }
 .imgDiv {
     width: 100%;
-    height: 1000px;
+    height: 100%;
 }
 .boxMessage > a {
     margin-left: 27%;
